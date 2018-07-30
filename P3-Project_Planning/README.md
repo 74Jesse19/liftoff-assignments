@@ -12,5 +12,4 @@ https://github.com/74Jesse19/assigner.git
 ![alt text](https://github.com/74Jesse19/liftoff-assignments/blob/master/wireframes.jpg)
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://github.com/74Jesse19/liftoff-assignments/projects/1?add_cards_query=is%3Aopen
