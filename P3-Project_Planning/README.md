@@ -1,5 +1,5 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
+https://github.com/74Jesse19/liftoff-assignments/tree/master/P2-Project_Outline
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
