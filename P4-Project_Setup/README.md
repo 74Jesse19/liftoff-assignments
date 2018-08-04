@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[GitHub](https://github.com/74Jesse19/assigner.git)
+[Assigner](https://github.com/74Jesse19/assigner.git)
