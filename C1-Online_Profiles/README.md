@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [gitHub](https://github.com/74Jesse19)
  
 ### LinkedIn
-{LinkedIn}(www.linkedin.com/in/jesse-williams-99aaa851)
+[LinkedIn](www.linkedin.com/in/jesse-williams-99aaa851)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
