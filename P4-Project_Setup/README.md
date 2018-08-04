@@ -8,3 +8,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 
 ### Project Repository
 [Assigner](https://github.com/74Jesse19/assigner.git)
+
+At this time I have chosen not to include a license for this app.
